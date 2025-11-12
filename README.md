@@ -2,5 +2,5 @@
 
 
 
-Este es la creación de mi primer repositorio en GitHub, fudamentos de programación.
+Este es la creación de mi primer repositorio en GitHub, "fudamentos de programación".
 
